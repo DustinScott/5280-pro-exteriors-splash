@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dustinscott.github.io/5280-pro-exteriors-splash/sitemap.xml
